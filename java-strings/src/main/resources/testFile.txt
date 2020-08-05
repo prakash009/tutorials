@@ -5,3 +5,4 @@ this is line 4
 This line will conflict for sure
 This line will also conflict for sure
 This line will not conflict 
+
