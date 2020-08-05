@@ -1,3 +1,3 @@
 this is line 1
 this is line 2
-Line 3 is changed and will be committed and pushed to generate conflict
+line 3 changed back to something
